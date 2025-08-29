@@ -32,7 +32,7 @@ This project simulates real interview sessions and provides **structured feedbac
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-interview-coach.git
+git clone https://github.com/Mhdanshif/AI Interview Coach.git
 cd ai-interview-coach
 
 ```
